@@ -3,7 +3,7 @@
    2) Replace FORMSPREE_ENDPOINT with your form URL
 */
 
-const FORMSPREE_ENDPOINT = "https://formspree.io/f/mnppzoyz";
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/xyeearyn";
 
 const COUNTRIES = [
   ["United States", "1"], ["Canada", "1"], ["United Kingdom", "44"], ["Australia", "61"],
